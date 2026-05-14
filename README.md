@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi 👋
 
-<!--
-**ChrisMao0325/ChrisMao0325** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Sheng Mao
 
-Here are some ideas to get you started:
+🧬 Life Sciences Undergraduate @ Westlake University  
+🌲 Incoming Biology PhD @ Stanford University
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Interested in:
+- Gene regulation
+- Single-cell genomics
+- AI for biology
+- Neuronscience
+---
+
+### Contact
+
+📫 chrismao0325@gmail.com / shengm1@stanford.edu
