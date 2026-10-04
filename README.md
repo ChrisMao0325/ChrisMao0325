@@ -3,13 +3,13 @@
 I'm Sheng Mao
 
 🧬 Life Sciences Undergraduate @ Westlake University  
-🌲 Incoming Biology PhD @ Stanford University
+🌲 Biology PhD student @ Stanford University
 
 Interested in:
 - Gene regulation
 - Single-cell genomics
 - AI for biology
-- Neuronscience
+- Neuroscience
 ---
 
 ### Contact
